@@ -13,3 +13,5 @@ const multiply = function (arr) {
 const divide = function (a, b) {
   return a / b;
 };
+
+const operate = function () {};
