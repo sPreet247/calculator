@@ -14,4 +14,11 @@ const divide = function (a, b) {
   return a / b;
 };
 
+const operators = {
+  "+": add(),
+  "-": subtract(),
+  "*": multiply(),
+  "/": divide(),
+};
+
 const operate = function () {};
