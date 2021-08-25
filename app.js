@@ -21,4 +21,4 @@ const operators = {
   "/": divide(),
 };
 
-const operate = function () {};
+const operate = function (operators) {};
