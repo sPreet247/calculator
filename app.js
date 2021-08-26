@@ -21,4 +21,7 @@ const operators = {
   "/": divide(),
 };
 
-const operate = function (operators) {};
+const operate = function (operators, a, b) {
+  if (operators.hasOwnProperty(operators)) {
+  }
+};
