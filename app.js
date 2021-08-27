@@ -22,6 +22,6 @@ const operators = {
 };
 
 const operate = function (operators, a, b) {
-  if (operators.hasOwnProperty(operators)) {
+  if (operators[operators]) {
   }
 };
