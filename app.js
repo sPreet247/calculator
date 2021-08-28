@@ -23,5 +23,6 @@ const operators = {
 
 const operate = function (operators, a, b) {
   if (operators[operators]) {
+    return;
   }
 };
