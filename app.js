@@ -22,7 +22,18 @@ const operators = {
 };
 
 const operate = function (operators, a, b) {
-  if (operators[operators]) {
-    return;
+  switch (operator) {
+    case "add":
+      add(a, b);
+      break;
+    case "subtract":
+      subtract(a, b);
+      break;
+    case "multiply":
+      multiply(a, b);
+      break;
+    case "divide":
+      divide(a, b);
+      break;
   }
 };
