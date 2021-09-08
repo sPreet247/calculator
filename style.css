@@ -6,3 +6,7 @@ h2 {
   text-align: center;
   margin: 2rem;
 }
+
+.signs {
+  display: flex;
+}
