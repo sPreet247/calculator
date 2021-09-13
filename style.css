@@ -25,6 +25,10 @@ button {
   margin: 2px;
 }
 
+.num {
+  margin: 1rem;
+}
+
 .signs {
   display: flex;
 }
