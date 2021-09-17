@@ -12,6 +12,7 @@ h2 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 input {
@@ -32,7 +33,4 @@ button {
 }
 
 .signs {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
 }
