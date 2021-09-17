@@ -15,15 +15,15 @@ h2 {
 }
 
 input {
-  padding: 0.5rem;
+  padding: 1rem;
   border-radius: 5px;
   margin: 0.5rem;
 }
 
 button {
-  padding: 10px;
+  padding: 20px;
   border-radius: 5px;
-  margin: 2px;
+  margin: 5px;
 }
 
 .num {
@@ -33,4 +33,6 @@ button {
 
 .signs {
   display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
