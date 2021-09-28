@@ -13,7 +13,8 @@ const multiply = function (a, b) {
 const divide = function (a, b) {
   return a / b;
 };
-let display = 0;
+let displayInput = 0;
+
 const operate = function (operators, a, b) {
   switch (operator) {
     case "add":
